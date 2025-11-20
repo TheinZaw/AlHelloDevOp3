@@ -13,7 +13,7 @@ pageextension 50435 CustomerListExt extends "Customer List"
         noti: Notification;
     begin
         noti.Id := Guid.CreateGuid();
-        noti.Message := 'Hello world! This is my feature-23 extension.-';
+        noti.Message := 'Hello world! This is my feature-23 extension.sdfsdfsdfsd-';
         noti.Send();
 
     end;
