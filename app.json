@@ -1,0 +1,32 @@
+{
+  "id": "878b89c6-7adf-42f0-8ef8-f477d32bd7b5",
+  "name": "AlHelloDevOpPjr3",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "27.0.0.0",
+  "idRanges": [
+    {
+       "from": 50435,
+      "to": 50436
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "16.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
